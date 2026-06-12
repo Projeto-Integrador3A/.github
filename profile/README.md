@@ -1,4 +1,4 @@
-# Projeto Integrador 3A - Todo App
+# Projeto Integrador 3A --> To-do App
 
 Aplicativo mobile de lista de tarefas desenvolvido como projeto integrador do curso de Ciência da Computação do IESB.
 
@@ -91,7 +91,7 @@ npm run dev
 ### Frontend
 | Branch | Descrição |
 |--------|-----------|
-| `main` | Fase 1 - telas e navegação sem integração |
+| `davi` | Fase 1 - telas e navegação sem integração |
 | `final` | Fase 2 - integração completa com a API |
 
 ### Backend
