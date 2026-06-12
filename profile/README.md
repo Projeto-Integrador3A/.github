@@ -110,8 +110,8 @@ O banco de dados PostgreSQL está hospedado no Neon (nuvem) e compartilhado entr
 ## Equipe
 | Membro | Responsabilidade |
 |--------|-----------------|
-| Lucca e Iury | Backend - API REST |
-| Davi e Caio | Frontend - Integração com a API |
+| Lucca e Iury | Backend - API REST e Integração API Front-end |
+| Davi e Caio | Frontend 
 
 ## Instituição
 Centro Universitário IESB - Projeto Integrador 3A (CCO089)
